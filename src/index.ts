@@ -34,7 +34,7 @@ app.use(
   cors({
     origin: [
       "https://coffee-craft-admin-portal.vercel.app",
-      "https://coffee-craft.vercel.app",
+      "https://cfc-client-git-main-hoangtuan151004s-projects.vercel.app",
       "http://localhost:3000",
     ],
     credentials: true, // Allow cookies to be sent with requests
