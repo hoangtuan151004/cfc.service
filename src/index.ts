@@ -33,7 +33,7 @@ app.use(helmet());
 app.use(
   cors({
     origin: [
-      "https://coffee-craft-admin-portal.vercel.app",
+      "https://cfc-admin.vercel.app",
       "https://cfc-client.vercel.app",
       "http://localhost:3000",
     ],
